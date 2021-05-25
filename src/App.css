@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.bg{
+  background-color: rgb(10, 10, 54);
+  color: beige;
+  padding: 20px;
+  font-size: 30px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.align-nav{
+  text-align: right;
+  color: beige;
+}
+.ft-size{
+  font-size: 25px;
+}
+.card{
+  background-color: rgb(10, 10, 54);
+  color: beige;
+  border : 1px solid beige;
+  padding: 10px;
+}
+.card-title{
+  color:rgb(243, 243, 83);
+}
+.card-body{
+  font-size: 25px;
+  font-family: cursive;
+}
